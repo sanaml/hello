@@ -8,8 +8,17 @@
   },
   "author": "Sanam lakhotra",
   "license": "ISC",
-  "description": "",
+  "description": "Hello World",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slakhotra/HELLOWORLD.git"
+  },
+  "bugs": {
+    "url": "https://github.com/slakhotra/HELLOWORLD/issues"
+  },
+  "homepage": "https://github.com/slakhotra/HELLOWORLD#readme"
 }
